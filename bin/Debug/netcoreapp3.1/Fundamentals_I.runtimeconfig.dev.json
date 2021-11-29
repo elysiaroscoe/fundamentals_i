@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\elysi\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\elysi\\.nuget\\packages"
+    ]
+  }
+}
